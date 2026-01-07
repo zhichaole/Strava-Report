@@ -1,5 +1,6 @@
 # Strava Personal Report (Local)
 
+
 Local web app (FastAPI + React/Vite) that syncs your Strava activities on frontend launch and shows weekly/monthly/yearly summaries.
 
 ## Setup
